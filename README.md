@@ -95,7 +95,6 @@ Click "Run on IOS simulator"
 
 ## Collaborators:
 
-Manola Yvonet\
 Andy PhyLim\
 Calvin Cheng\
 Cheryl Chen\
